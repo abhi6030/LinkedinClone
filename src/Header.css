@@ -1,0 +1,45 @@
+.MainHeader{
+    height: 50px;
+    width: 100%;
+    /* background-color: aqua; */
+    padding: 7px;
+    display: flex;
+}
+.Subheader{
+    height: 50px;
+    width: 100%;
+    /* background-color: rgb(243, 164, 74); */
+    display: flex;
+    padding: 10px;
+    
+}
+.sub{
+    margin-left: 220px;
+}
+.name{
+    margin-left: 10px;
+   
+}
+.Licon{
+    height: 35px;
+    width: 35px;
+    margin-left: 80px;
+
+}
+.txt{
+    width: 800px;
+    padding: 10px;
+    margin: 0;
+    border-radius: 0;
+    height: 100%;
+    border-right: 50px;
+    /* background-color: aqua; */
+}
+
+  
+  .search{
+      margin-left: 20px;
+      margin-right: 20px;
+      /* background-color: aqua; */
+  
+  }

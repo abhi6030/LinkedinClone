@@ -1,0 +1,119 @@
+.Profile{
+    height: 400px;
+    width: 700px;
+    /* background-color: green; */
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.line1{
+font-size: 18px;
+}
+.line2{
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgb(117, 115, 115);
+}
+.line3{
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 14px;
+    color: blue;
+}
+.btn1{
+margin-left: 10px;
+background-color: blue;
+}
+.btn2{
+    margin-left: 10px; 
+}
+.btn3{
+    margin-left: 10px;
+}
+.subimg{
+    margin-top: -60px;
+    margin-left: 30px;
+}
+.Overview{
+    height: 50px;
+    width: 700px;
+    /* background-color: rgb(191, 247, 39); */
+    margin-top: -170px;
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+.o2{
+margin-right: 50px;
+}
+
+.About{
+    height: 250px;
+    width: 700px;
+    /* background-color: rgb(82, 79, 236); */
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.subabout{
+    height: 110px;
+    margin-top: 20px;
+display: flex;
+/* border: chartreuse 2px solid; */
+padding: 10px;
+}
+.sb{
+    height: 80px;
+    width: 40%;
+border: black 2px solid;
+margin-left: 40px;
+}
+.sb1{
+    padding: 20px;
+    margin-left: 250px;
+    color: blue;
+}
+.Pages{
+    height: 600px;
+    width: 500px;
+    /* background-color: hotpink; */
+    margin-left: 800px;
+    margin-top: -420px;
+    }
+.Page1{
+        display: flex;
+       margin-top: 10px;
+    }
+.pageimg{
+    margin-right: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+.pageicon{
+    font-size: larger;
+align-self:flex-end ;
+/* margin-left: 100px; */
+
+}
+.pagetext{
+    width: 350px;
+}
+.pageabout{
+    margin-top: 15px;
+}
+.lastsection{
+    display: flex;
+}
+.lasttext{
+    margin-left: 180px;
+    margin-top: 22px;
+}
+.lastimg{
+    margin-top: 18px;
+}
